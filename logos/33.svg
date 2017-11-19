@@ -7,28 +7,28 @@
 	<defs>
 		<style type="text/css">
 			<![CDATA[
-			@font-face {
-				font-family: 'Quicksand';
-				font-style: normal;
-				font-weight: normal;
-				src: url(https://fonts.gstatic.com/s/quicksand/v7/sKd0EMYPAh5PYCRKSryvW6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
-			}
-			@font-face {
-				font-family: 'Quicksand';
-				font-style: normal;
-				font-weight: medium;
-				src: url(https://fonts.gstatic.com/s/quicksand/v7/FRGja7LlrG1Mypm0hCq0DonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
-			}
-			@font-face {
-				font-family: 'Quicksand';
-				font-style: normal;
-				font-weight: bold;
-				src: url(https://fonts.gstatic.com/s/quicksand/v7/32nyIRHyCu6iqEka_hbKsonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
-			}
-   ]]>
+				@font-face {
+					font-family: 'Quicksand';
+					font-style: normal;
+					font-weight: normal;
+					src: url(https://fonts.gstatic.com/s/quicksand/v7/sKd0EMYPAh5PYCRKSryvW6CWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+				}
+				@font-face {
+					font-family: 'Quicksand';
+					font-style: normal;
+					font-weight: medium;
+					src: url(https://fonts.gstatic.com/s/quicksand/v7/FRGja7LlrG1Mypm0hCq0DonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+				}
+				@font-face {
+					font-family: 'Quicksand';
+					font-style: normal;
+					font-weight: bold;
+					src: url(https://fonts.gstatic.com/s/quicksand/v7/32nyIRHyCu6iqEka_hbKsonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
+				}
+   		]]>
 		</style>
 	</defs>
-	<text transform="matrix(0.999 0 0 1 251.1895 192.751)" fill="#3A3A3A" font-family="Quicksand" font-weight="bold" font-size="182.4815">kumori</text>
+	<text transform="matrix(0.999 0 0 1 251.1895 192.751)" fill="#3A3A3A" style="font-family:'Quicksand'; font-weight: bold"  font-size="182.4815">kumori</text>
 	<path fill="#EC1B56" stroke="#FFFFFF" stroke-width="13.3864" stroke-miterlimit="10" d="M156.936,98.216
 	c12.521,29.578,4.965,61.166-16.853,70.523c-21.826,9.341-49.675-7.046-62.18-36.66c-12.53-29.58-4.965-61.175,16.852-70.524
 	C116.59,52.197,144.412,68.619,156.936,98.216z"/>
@@ -39,6 +39,6 @@
 	c31.632,9.672,51.371,37.029,44.137,61.059c-7.252,24.005-38.795,35.665-70.399,25.976c-31.686-9.697-51.451-37.027-44.189-61.067
 	C29.735,102.679,61.268,91.027,92.917,100.743z"/>
 	<g>
-		<text transform="matrix(0.9207 0 0 1 266.8379 248.418)" fill="#3A3A3A" stroke="#3A3A3A" stroke-width="3.1356" stroke-miterlimit="10" font-family="Quicksand" font-weight= "normal" font-size="64.6082">s y s t e m s</text>
+		<text transform="matrix(0.9207 0 0 1 266.8379 248.418)" fill="#3A3A3A" stroke="#3A3A3A" stroke-width="3.1356" stroke-miterlimit="10" style="font-family: 'Quicksand'; font-weight: normal" font-size="64.6082">s y s t e m s</text>
 	</g>
 </svg>
