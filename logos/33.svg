@@ -26,8 +26,9 @@
 			font-weight: bold;
 			src: local('Quicksand Bold'), local('Quicksand-Bold'), url(https://fonts.gstatic.com/s/quicksand/v7/32nyIRHyCu6iqEka_hbKsonF5uFdDttMLvmWuJdhhgs.ttf) format('truetype');
 		}
+	  
+          ]]>
 	</style>
-      ]]>
 	<text transform="matrix(0.999 0 0 1 251.1895 192.751)" fill="#3A3A3A" font-family="Quicksand" font-weight="bold"  font-size="182.4815">kumori</text>
 	<path fill="#EC1B56" stroke="#FFFFFF" stroke-width="13.3864" stroke-miterlimit="10" d="M156.936,98.216
 	c12.521,29.578,4.965,61.166-16.853,70.523c-21.826,9.341-49.675-7.046-62.18-36.66c-12.53-29.58-4.965-61.175,16.852-70.524
